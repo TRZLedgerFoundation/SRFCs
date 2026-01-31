@@ -8,7 +8,7 @@ An application standard can be something like the following:
 - Metadata retrieval flow
 - Identity standard
 
-A SRFC does not apply to [SIMDs](https://github.com/trzledgerfoundation/solana-improvement-documents/tree/main) or core protocol proposals, but it can propose one if the standard requires a SIMD.
+A SRFC does not apply to [SIMDs](https://github.com/trzledgerfoundation/trezoa-improvement-documents/tree/main) or core protocol proposals, but it can propose one if the standard requires a SIMD.
 
 ## How do I submit a SRFC?
 To get requests for comments on your new application standard on Trezoa, [submit a new discussion](https://github.com/trzledgerfoundation/sRFCs/discussions/new/choose). You can include links out to further documentation, implementations, or PRs.
